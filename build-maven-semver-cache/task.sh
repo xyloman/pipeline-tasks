@@ -1,9 +1,11 @@
-#!/bin/bash
+#!/bin/ash
 # This script assumes Maven Wrapper is used with Maven v3.5.0 or higher.
 #   see: https://maven.apache.org/maven-ci-friendly.html
 #
 # All UPERCASE variables are provided externally from this script
 
+
+set -x
 set -eu
 set -o pipefail
 
