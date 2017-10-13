@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/bin/bash
 # This script assumes Maven Wrapper is used with Maven v3.5.0 or higher.
 #   see: https://maven.apache.org/maven-ci-friendly.html
 #
